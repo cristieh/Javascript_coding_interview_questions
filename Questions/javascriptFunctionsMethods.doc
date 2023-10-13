@@ -1,0 +1,52 @@
+Array Methods:
+
+    push(): Adds one or more elements to the end of an array.
+    pop(): Removes and returns the last element of an array.
+    shift(): Removes and returns the first element of an array.
+    unshift(): Adds one or more elements to the beginning of an array.
+    concat(): Combines two or more arrays.
+    join(): Joins all elements of an array into a string.
+    slice(): Returns a shallow copy of a portion of an array.
+    splice(): Changes the contents of an array by removing, replacing, or adding elements.
+
+String Methods:
+
+    charAt(): Returns the character at a specified index in a string.
+    substring(): Returns a subset of a string between specified indices.
+    split(): Splits a string into an array of substrings.
+    indexOf(): Returns the index within the calling string of the first occurrence of the specified value.
+    replace(): Replaces a specified value with another value in a string.
+
+Math Methods:
+
+    Math.max(): Returns the largest of zero or more numbers.
+    Math.min(): Returns the smallest of zero or more numbers.
+    Math.round(): Rounds a number to the nearest integer.
+    Math.floor(): Returns the largest integer less than or equal to a given number.
+
+      Object Methods:
+
+    Object.keys(): Returns an array of a given object's own enumerable property names.
+    Object.values(): Returns an array of a given object's own enumerable property values.
+    Object.hasOwnProperty(): Returns a boolean indicating whether the object has the specified property 
+      as its own property (not inherited).
+
+Other Common Functions:
+
+    typeof(): Returns a string representing the type of an operand.
+    parseInt(): Parses a string argument and returns an integer of the specified radix.
+    parseFloat(): Parses a string argument and returns a floating-point number.
+
+    Callback Functions:
+    Understanding how to create and use callback functions, which are functions passed as arguments to other functions, 
+    is also essential.
+    
+    Arrow Functions:
+    Understanding how to use and write arrow functions, which provide a concise syntax for writing function expressions, 
+    is important.
+    
+    Promises and Async/Await:
+    Understanding how to work with promises and async/await for handling asynchronous operations.
+    
+    Event Handling:
+    Understanding how to attach event listeners and handle events in the DOM.
